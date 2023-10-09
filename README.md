@@ -1,6 +1,6 @@
 # Projeto Next.js com Tailwind CSS
 
-Este é um projeto React criado com Next.js e estilizado com Tailwind CSS. Ele fornece uma estrutura inicial para desenvolvimento web rápido e responsivo.
+Este é um projeto React criado com Next.js e estilizado com Tailwind CSS.
 
 ## Requisitos
 
